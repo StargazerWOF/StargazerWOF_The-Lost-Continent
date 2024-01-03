@@ -1,0 +1,18 @@
+{
+    "criteria": {
+        "venom_aura_active": {
+            "trigger": "minecraft:tick",
+            "conditions": {
+                "player": [
+                    {
+                        "condition": "minecraft:reference",
+                        "name": "tlc:tribes/leafwings"
+                    }
+                ],
+            }
+        }
+    },
+    "rewards": {
+        "function": "tlc:ability/leafwings/venom_aura/tick"
+    }
+}
