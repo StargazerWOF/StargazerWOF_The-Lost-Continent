@@ -1,3 +1,6 @@
+# > tlc:advancements/venom_aura.mcfunction
+# loop for moving effect area and stopping after 4 seconds
+
 {
     "criteria": {
         "venom_aura_active": {
