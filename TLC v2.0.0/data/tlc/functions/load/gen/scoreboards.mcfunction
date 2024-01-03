@@ -4,6 +4,11 @@
 
 #region
     # Scoreboards
+
+        ## Venom Aura
+#define objective tlc.ability.venom_aura Stores Venom Aura scores.
+scoreboard objectives add tlc.ability.venom_aura dummy
+
         ## Passive Objectives
 #define objective tlc.passives.synchrosocial Stores Synchrosocial scores.
 scoreboard objectives add tlc.passives.synchrosocial dummy
