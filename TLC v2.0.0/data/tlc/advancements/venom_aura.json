@@ -1,4 +1,4 @@
-# > tlc:advancements/venom_aura.mcfunction
+# > tlc:advancements/venom_aura.json
 # loop for moving effect area and stopping after 4 seconds
 
 {
